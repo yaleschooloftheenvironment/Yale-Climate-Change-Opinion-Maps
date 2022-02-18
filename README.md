@@ -1,8 +1,9 @@
-# Yale Program on Climate Change Communication (YPCCC)
+# Yale Climate Change Opinion Maps (YCOM)
+
+
+The “Yale Climate Opinion Maps” (YCOM) is one of several Yale Program on Climate Change Communication (YPCCC) projects. YCOM allows users to visualize and explore differences in public opinion about global warming in the United States in unprecedented geographic detail.
 
 Global warming is one of the greatest threats – and opportunities – of the 21st century. Our fate will be determined by the choices of 7.4 billion people and counting. We are social scientists studying the causes and consequences of public opinion and behavior. We help governments, media, companies, and advocates communicate more effectively. 
-
-One of several YPCCC projects, the “Yale Climate Opinion Maps” (YCOM) allow users to visualize and explore differences in public opinion about global warming in the United States in unprecedented geographic detail.
 
 
 <img width="961" alt="Screen Shot 2021-11-09 at 12 18 50 AM" src="https://user-images.githubusercontent.com/50230767/140866981-8160dbda-a766-4e23-bf95-dcc3114189bc.png">
