@@ -14,6 +14,6 @@ This version of the Yale Climate Opinion Maps is based on data through spring 20
 
 
 
-Explore the YCOM research datasets:
+# Explore the YCOM research datasets:
 https://climatecommunication.yale.edu/visualizations-data/ycom-us/
 
